@@ -1,0 +1,6 @@
+{
+  "name": "LennoxWAV",
+  "description": "An offline, local music player mimicking the look and feel of Spotify. Scans local storage, supports background playback and features a robust UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
