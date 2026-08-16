@@ -1,0 +1,7 @@
+com.example.app-pngs-0 F:\local-music-player\app\build\generated\res\pngs\debug
+com.example.app-updated_navigation_xml-1 F:\local-music-player\app\build\generated\updated_navigation_xml\debug
+com.example.app-packageDebugResources-2 F:\local-music-player\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.app-packageDebugResources-3 F:\local-music-player\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.app-debug-4 F:\local-music-player\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.app-debug-5 F:\local-music-player\app\src\debug\res
+com.example.app-main-6 F:\local-music-player\app\src\main\res

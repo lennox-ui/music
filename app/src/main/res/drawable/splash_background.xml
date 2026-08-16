@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background Dark Color -->
+    <item android:drawable="@color/dark_bg" />
+
+    <!-- Centered Logo with fixed size to match Compose exactly -->
+    <item
+        android:width="160dp"
+        android:height="160dp"
+        android:drawable="@drawable/my_logo"
+        android:gravity="center" />
+
+    <!-- Centered Mask to round the corners of the square logo -->
+    <item
+        android:width="160dp"
+        android:height="160dp"
+        android:drawable="@drawable/splash_mask"
+        android:gravity="center" />
+</layer-list>
